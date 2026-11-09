@@ -51,7 +51,7 @@
         "wk:page":"Ambabbo"
     },
     "wof:country":"DJ",
-    "wof:geomhash":"c8100e37fcda8db94af47fa66aac30fe",
+    "wof:geomhash":"4061a554aac9931abaf704f3a394d8b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,5 +77,5 @@
     42.81444000000001,
     11.75111
 ],
-  "geometry": {"coordinates":[42.81444000000001,11.75111],"type":"Point"}
+  "geometry": {"coordinates":[42.81444,11.75111],"type":"Point"}
 }

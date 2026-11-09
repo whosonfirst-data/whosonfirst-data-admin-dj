@@ -54,7 +54,7 @@
         "wk:page":"Kouta_Bouyya"
     },
     "wof:country":"DJ",
-    "wof:geomhash":"83d50797cc4da40bfeadaf5cac1d6ef8",
+    "wof:geomhash":"b608fa530eb263d8700db1da8f53080f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     41.96194000000001,
     11.01611
 ],
-  "geometry": {"coordinates":[41.96194000000001,11.01611],"type":"Point"}
+  "geometry": {"coordinates":[41.96194,11.01611],"type":"Point"}
 }

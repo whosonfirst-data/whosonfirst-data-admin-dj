@@ -84,7 +84,7 @@
         "wk:page":"Yoboki"
     },
     "wof:country":"DJ",
-    "wof:geomhash":"708eec1ed2e965a14e64990d98c84a45",
+    "wof:geomhash":"498e239eda828f360438c4b6288d7cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,5 +110,5 @@
     42.10639000000001,
     11.51139
 ],
-  "geometry": {"coordinates":[42.10639000000001,11.51139],"type":"Point"}
+  "geometry": {"coordinates":[42.10639,11.51139],"type":"Point"}
 }

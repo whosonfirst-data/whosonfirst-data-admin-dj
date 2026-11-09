@@ -41,7 +41,7 @@
         "gn:id":7828770
     },
     "wof:country":"DJ",
-    "wof:geomhash":"a52c2f7c5198edb16461e580515901e2",
+    "wof:geomhash":"acb747e6a233bbb984ee60b470208413",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     42.92639000000001,
     12.35444
 ],
-  "geometry": {"coordinates":[42.92639000000001,12.35444],"type":"Point"}
+  "geometry": {"coordinates":[42.92639,12.35444],"type":"Point"}
 }
