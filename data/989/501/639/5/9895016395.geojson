@@ -1,0 +1,75 @@
+{
+  "id": 9895016395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.82796,11.38526,42.82796,11.38526",
+    "geom:latitude":11.38526,
+    "geom:longitude":42.82796,
+    "gn:population":672,
+    "iso:country":"DJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12041426: name \"Assa Hougoud\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12041426"
+        },
+        {
+            "citation":"GeoNames populated place 12041426: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12041426"
+        },
+        {
+            "citation":"GeoNames populated place 12041426: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12041426"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759739 (Ali Sabieh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632319,
+        85670467,
+        102191573,
+        1108759739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12041426
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"b9a26d22f54063e1975cba6f31ee78f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759739,
+            "locality_id":9895016395,
+            "region_id":85670467
+        }
+    ],
+    "wof:id":9895016395,
+    "wof:lastmodified":1795735157,
+    "wof:name":"Assa Hougoud",
+    "wof:parent_id":1108759739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82796,
+    11.38526,
+    42.82796,
+    11.38526
+],
+  "geometry": {"coordinates":[42.82796,11.38526],"type":"Point"}
+}

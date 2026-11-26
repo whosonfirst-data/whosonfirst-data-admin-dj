@@ -1,0 +1,74 @@
+{
+  "id": 9895016409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.68989,11.68004,42.68989,11.68004",
+    "geom:latitude":11.68004,
+    "geom:longitude":42.68989,
+    "iso:country":"DJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12041443: name \"Oued Ouea\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12041443"
+        },
+        {
+            "citation":"GeoNames populated place 12041443: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12041443"
+        },
+        {
+            "citation":"GeoNames populated place 12041443: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12041443"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759769 (Tadjourah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632319,
+        85670491,
+        102191573,
+        1108759769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12041443
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"907daa993f2401f0e89ea63ad4b2c802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759769,
+            "locality_id":9895016409,
+            "region_id":85670491
+        }
+    ],
+    "wof:id":9895016409,
+    "wof:lastmodified":1795735157,
+    "wof:name":"Oued Ouea",
+    "wof:parent_id":1108759769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.68989,
+    11.68004,
+    42.68989,
+    11.68004
+],
+  "geometry": {"coordinates":[42.68989,11.68004],"type":"Point"}
+}

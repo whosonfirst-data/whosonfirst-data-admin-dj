@@ -1,0 +1,74 @@
+{
+  "id": 9895016410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.84784,12.45751,42.84784,12.45751",
+    "geom:latitude":12.45751,
+    "geom:longitude":42.84784,
+    "iso:country":"DJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12041444: name \"Ribta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12041444"
+        },
+        {
+            "citation":"GeoNames populated place 12041444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12041444"
+        },
+        {
+            "citation":"GeoNames populated place 12041444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12041444"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759757 (Alaili Dadda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632319,
+        85670485,
+        102191573,
+        1108759757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12041444
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"d0e19c9735701e2b33cf428bc567a339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759757,
+            "locality_id":9895016410,
+            "region_id":85670485
+        }
+    ],
+    "wof:id":9895016410,
+    "wof:lastmodified":1795735157,
+    "wof:name":"Ribta",
+    "wof:parent_id":1108759757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.84784,
+    12.45751,
+    42.84784,
+    12.45751
+],
+  "geometry": {"coordinates":[42.84784,12.45751],"type":"Point"}
+}
