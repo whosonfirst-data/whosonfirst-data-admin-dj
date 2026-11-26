@@ -1,0 +1,74 @@
+{
+  "id": 9895016403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.4021,11.57356,42.4021,11.57356",
+    "geom:latitude":11.57356,
+    "geom:longitude":42.4021,
+    "iso:country":"DJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12041436: name \"Debne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12041436"
+        },
+        {
+            "citation":"GeoNames populated place 12041436: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12041436"
+        },
+        {
+            "citation":"GeoNames populated place 12041436: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12041436"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759747 (Yoboki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632319,
+        85670477,
+        102191573,
+        1108759747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12041436
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"04b259facd43523f1d4c72ddfa6b6e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759747,
+            "locality_id":9895016403,
+            "region_id":85670477
+        }
+    ],
+    "wof:id":9895016403,
+    "wof:lastmodified":1795735157,
+    "wof:name":"Debne",
+    "wof:parent_id":1108759747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.4021,
+    11.57356,
+    42.4021,
+    11.57356
+],
+  "geometry": {"coordinates":[42.4021,11.57356],"type":"Point"}
+}

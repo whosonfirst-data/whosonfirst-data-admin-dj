@@ -1,0 +1,74 @@
+{
+  "id": 9895016406,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.11576,11.54492,42.11576,11.54492",
+    "geom:latitude":11.54492,
+    "geom:longitude":42.11576,
+    "iso:country":"DJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12041439: name \"Dagguirou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12041439"
+        },
+        {
+            "citation":"GeoNames populated place 12041439: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12041439"
+        },
+        {
+            "citation":"GeoNames populated place 12041439: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12041439"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759753 (Yoboki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632319,
+        85670483,
+        102191573,
+        1108759753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12041439
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"835f5ede7666629ad47b3d75943f29c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759753,
+            "locality_id":9895016406,
+            "region_id":85670483
+        }
+    ],
+    "wof:id":9895016406,
+    "wof:lastmodified":1795735157,
+    "wof:name":"Dagguirou",
+    "wof:parent_id":1108759753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.11576,
+    11.54492,
+    42.11576,
+    11.54492
+],
+  "geometry": {"coordinates":[42.11576,11.54492],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895016400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30217,12.45346,43.30217,12.45346",
+    "geom:latitude":12.45346,
+    "geom:longitude":43.30217,
+    "iso:country":"DJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12041433: name \"Fagal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12041433"
+        },
+        {
+            "citation":"GeoNames populated place 12041433: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12041433"
+        },
+        {
+            "citation":"GeoNames populated place 12041433: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12041433"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759759 (Obock), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632319,
+        85670485,
+        102191573,
+        1108759759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12041433
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"717facf525534800cb51d94ca1c5c5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759759,
+            "locality_id":9895016400,
+            "region_id":85670485
+        }
+    ],
+    "wof:id":9895016400,
+    "wof:lastmodified":1795735157,
+    "wof:name":"Fagal",
+    "wof:parent_id":1108759759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30217,
+    12.45346,
+    43.30217,
+    12.45346
+],
+  "geometry": {"coordinates":[43.30217,12.45346],"type":"Point"}
+}

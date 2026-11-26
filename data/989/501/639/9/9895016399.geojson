@@ -1,0 +1,75 @@
+{
+  "id": 9895016399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.64849,11.09456,42.64849,11.09456",
+    "geom:latitude":11.09456,
+    "geom:longitude":42.64849,
+    "gn:population":885,
+    "iso:country":"DJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12041432: name \"Guelile\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12041432"
+        },
+        {
+            "citation":"GeoNames populated place 12041432: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12041432"
+        },
+        {
+            "citation":"GeoNames populated place 12041432: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12041432"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759751 (Dikhil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632319,
+        85670483,
+        102191573,
+        1108759751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12041432
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"71c3cfab18f166990d651f87ef00dc44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759751,
+            "locality_id":9895016399,
+            "region_id":85670483
+        }
+    ],
+    "wof:id":9895016399,
+    "wof:lastmodified":1795735157,
+    "wof:name":"Guelile",
+    "wof:parent_id":1108759751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.64849,
+    11.09456,
+    42.64849,
+    11.09456
+],
+  "geometry": {"coordinates":[42.64849,11.09456],"type":"Point"}
+}

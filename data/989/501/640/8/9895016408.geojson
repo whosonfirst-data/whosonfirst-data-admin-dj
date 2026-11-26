@@ -1,0 +1,74 @@
+{
+  "id": 9895016408,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.20977,12.09889,42.20977,12.09889",
+    "geom:latitude":12.09889,
+    "geom:longitude":42.20977,
+    "iso:country":"DJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12041442: name \"Malaho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12041442"
+        },
+        {
+            "citation":"GeoNames populated place 12041442: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12041442"
+        },
+        {
+            "citation":"GeoNames populated place 12041442: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12041442"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759763 (Balha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632319,
+        85670491,
+        102191573,
+        1108759763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12041442
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"3f75b9db91ff038bed93c80a10815ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759763,
+            "locality_id":9895016408,
+            "region_id":85670491
+        }
+    ],
+    "wof:id":9895016408,
+    "wof:lastmodified":1795735157,
+    "wof:name":"Malaho",
+    "wof:parent_id":1108759763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.20977,
+    12.09889,
+    42.20977,
+    12.09889
+],
+  "geometry": {"coordinates":[42.20977,12.09889],"type":"Point"}
+}
